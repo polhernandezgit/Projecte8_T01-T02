@@ -3,7 +3,7 @@
 ## Taula de continguts
 
 - [Introducció al cas](#Introducció-al-cas)
-- [Resultats d'aprenentatge](#Resultats-d'aprenentatge)
+- [Resultats d'aprenentatge](#resultats-d'aprenentatge)
 - [Competències PPS](#Competències-PPS)
 - [Tasques a realitzar](#Tasques-a-realitzar)
 
@@ -19,4 +19,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie ligula
 
 En aquest pr
 
-## 
+## Competències PPS
+
+## Tasques a realitzar
