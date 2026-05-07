@@ -1,8 +1,8 @@
 # Descripció de la tasca
 
-L'ONG "Horitzons Digitals" ha rebut una subvenció per alfabetitzar digitalment col·lectius vulnerables (gent gran, persones en cerca de feina i joves en risc d'exclusió). Tenen el local, però no saben per on començar. 
+L'ONG "Horitzons Digitals" ha rebut una subvenció per alfabetitzar digitalment col·lectius vulnerables (gent gran, persones en cerca de feina i joves en risc d'exclusió). Tenen el local, però no saben per on començar.
 
-![client3](../img/client3.png)
+![client3](/img/client3.png)
 
 La vostra empresa ha de realitzar les següents tasques:
 
@@ -12,7 +12,7 @@ La vostra empresa ha de realitzar les següents tasques:
 2. **Disseny del Maquinari (Hardware)**
     - Selecció de l'arquitectura: Ordinadors de sobretaula, portàtils o potser Thin Clients amb un servidor central per estalviar costos?
     - Llistat de perifèrics necessaris (projectors, impressores 3D, routers, etc.).
- 3. **El Gran Dilema: Programari Lliure (OSS) vs. Comercial**
+3. **El Gran Dilema: Programari Lliure (OSS) vs. Comercial**
     - Heu de presentar un estudi comparatiu. Per exemple: Windows + Office vs. Linux (Ubuntu/Linux Mint) + LibreOffice.
     - Cal valorar factors com: Cost de llicències, facilitat d'ús per als usuaris, corba d'aprenentatge i manteniment a llarg termini.
 4. **Pressupost i Viabilitat**

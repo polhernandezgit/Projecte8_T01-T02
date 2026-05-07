@@ -1,4 +1,4 @@
-# COMPETÈNCIES PROFESSIONALS, PERSONALS I SOCIALS 
+# COMPETÈNCIES PROFESSIONALS, PERSONALS I SOCIALS
 
 Les competències professionals, personals i socials del curs que es treballen en aquest projecte són:
 

@@ -2,7 +2,7 @@
 
 "El Racó del Cafè" és una cafeteria amb molta rotació que també serveix petits àpats. Actualment, el cambrer apunta les comandes en un bloc, les porta a cuina i finalment pica el total en una caixa registradora bàsica. El propietari mai sap quin és l'estoc real ni quines hores són les més rendibles.
 
-![imatge del client](../img/client1.png)
+![imatge del client](/img/client1.png)
 
 Com a empresa IT, haureu de resoldre:
 

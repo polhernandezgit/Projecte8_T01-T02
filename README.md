@@ -3,9 +3,9 @@
 ## Taula de continguts
 
 - [Introducció al cas](#introducció-al-cas)
-- [Competències professionals](Comp.md)
-- [Resultats d'aprenentatge](RAs.md)
-- [Resultats d'aprenentatge de CPS](CPS.md)
+- [Competències professionals](docs/Comp.md)
+- [Resultats d'aprenentatge](docs/RAs.md)
+- [Resultats d'aprenentatge de CPS](docs/CPS.md)
 - [Tasques a realitzar](#tasques-a-realitzar)
 
 ---
@@ -45,9 +45,9 @@ El professorat us indicarà a cada equip el client específic que hauràs d'anal
 
 Cliqueu sobre l'enllaç corresponent a la vostra classe:
 
-- SMX 2n A [enllaç]()
-- SMX 2n B [enllaç]()
+- SMX 2n A [enllaç](https://github.com/Projecte8/SMX2A)
+- SMX 2n B [enllaç](https://github.com/Projecte8/SMX2B)
 
 A la pàgina `README.md` completeu les dades que es demanen. Crear les carpetes corresponents a les tasques demanades i a dins crear un `README.md` presentant l'activitat i un arxiu `solucio.md` amb la solució elaborada.
 
-Les imatges que s'incorporin han d'estar dins una carpeta /img i si els diagrames, esquemes, etc. feu servir el format `mermaid`.
+Les imatges que s'incorporin han d'estar dins una carpeta `/img` i si cal incorporar diagrames, esquemes, etc. es recomana que feu servir el format `mermaid`.
