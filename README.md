@@ -36,7 +36,7 @@ El professorat us indicarà a cada equip el client específic que hauràs d'anal
 
 - [Client 1: cafeteria "El Racó del Cafè"](enunciats/client1.md)
 - [Client 2: TransRàpid S.L.](enunciats/client2.md)
-- [Client 3:](enunciats/client3.md)
+- [Client 3: Aula de Formació](enunciats/client3.md)
 - [Client 4:](enunciats/client4.md)
 
 ### Tasca 2: elaborar el pla de sostenibilitat per xxx
