@@ -37,3 +37,12 @@ El professorat us indicarà a cada equip el client específic que hauràs d'anal
 | :--- | :--- | :--- |
 | Innovació | Responsabilitat | Resolució de problemes |
 | Relació Interpersonal | | |
+
+## Distribució horària
+
+
+## Quan es necessita, termini i forma de lliurament
+
+- Producte final: informe tècnic.
+- Termini lliurament: 
+- Lliurar la tasca al repositori de projecte.
