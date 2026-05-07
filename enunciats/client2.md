@@ -2,6 +2,8 @@
 
 "TransRàpid S.L." té una flota de 2 camions i 4 furgonetes. Actualment, tota la informació (rutes, benzina, manteniment de vehicles i factures) resideix en un únic fitxer d'Excel que s'ha tornat lent, inestable i on es perd informació constantment.
 
+![client2](../img/client2.png)
+
 La vostra empresa de serveis informàtics ha de seguir aquests passos:
 
 ## Anàlisi del "Caos de dades"
