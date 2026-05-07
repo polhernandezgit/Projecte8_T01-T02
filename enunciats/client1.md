@@ -20,7 +20,7 @@ Com a empresa IT, haureu de resoldre:
    * Comparar **Software Lliure** (ex: **Floreant POS** o **Odoo Community**) vs. **Software Comercial** amb quotes mensuals (ex: **Revo** o **Square**).  
    * Analitzar la integració amb mòduls d'inventari (que es desperti l'estoc automàticament cada cop que es ven un cafè).
 
-## **Què cal lliurar**
+## Què cal lliurar
 
 Lliurament d'un **Pla de Transformació Digital per a Restauració** en format Markdown que inclogui:
 

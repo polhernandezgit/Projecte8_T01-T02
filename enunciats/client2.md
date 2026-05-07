@@ -1,4 +1,4 @@
-# Descripció de la tasca
+# 
 
 "TransRàpid S.L." té una flota de 2 camions i 4 furgonetes. Actualment, tota la informació (rutes, benzina, manteniment de vehicles i factures) resideix en un únic fitxer d'Excel que s'ha tornat lent, inestable i on es perd informació constantment.
 
@@ -6,28 +6,30 @@
 
 La vostra empresa de serveis informàtics ha de seguir aquests passos:
 
-## Anàlisi del "Caos de dades"
+## Descripció de la tasca
+
+### Anàlisi del "Caos de dades"
 
 - Identificar els riscos actuals (pèrdua de dades, manca de multiusuari, errors humans).
 - Entrevistar el responsable de trànsit (qui assigna rutes) i el comptable per detectar requeriments específics.
 
-## Proposta de Maquinari (Hardware)
+### Proposta de Maquinari (Hardware)
 
 **A l'oficina**: Cal un servidor local o una solució Cloud? Quins equips de sobretaula necessiten l'administrador i el cap de logística?
 
 **En ruta**: Quins dispositius portaran els transportistes per a l'albarà digital i el GPS (tablets robustes, smartphones)? Cal connectivitat 4G/5G.
 
-## Proposta de Programari (Software)
+### Proposta de Programari (Software)
 
 **L'alternativa a l'Excel**: Heu de proposar un ERP (Enterprise Resource Planning) o un TMS (Transport Management System).
 
 **Debat de llicències**: Comparar una solució de programari lliure (ex: Odoo amb mòduls de flota) versus una solució SaaS comercial (ex: SAP Business One o eines específiques de transport).
 
-## Seguretat i Còpies de Seguretat
+### Seguretat i Còpies de Seguretat
 
 Dissenyar un pla per garantir que les dades de facturació i rutes no es perdin mai.
 
-### Què cal lliurar
+## Què cal lliurar
 
 El lliurament consistirà en una Proposta de Solució Tecnològica en format PDF que contingui:
 
