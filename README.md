@@ -20,7 +20,7 @@ En aquest projecte, us convertireu en consultors tecnològics per a petites i mi
 
 ### Quin és el repte?
 
-Moltes petites empreses del nostre entorn dominen el seu producte, però tenen dificultats per adaptar-se a les noves tecnologies. El vostre objectiu serà analitzar casos reals de negocis que necessiten modernitzar-se. No es tracta només d'instal·lar programari, sinó de trobar la solució tecnològica que realment els ajudi a ser més competitius, eficients i segurs.
+Moltes petites empreses del nostre entorn dominen el seu producte, però tenen dificultats per adaptar-se a les noves tecnologies. El vostre objectiu serà analitzar casos reals de negocis que necessiten modernitzar-se. No es tracta només d'instal·lar programari, sinó de trobar la solució tecnològica que realment els ajudi a ser més competitius, eficients, sostenibles i segurs.
 
 Al llarg d'aquest projecte, treballareu de forma pràctica:
 
