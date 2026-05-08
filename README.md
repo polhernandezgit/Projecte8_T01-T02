@@ -7,6 +7,7 @@
 - [Resultats d'aprenentatge](docs/RAs.md)
 - [Resultats d'aprenentatge de CPS](docs/CPS.md)
 - [Tasques a realitzar](#tasques-a-realitzar)
+- [Grups de treball](docs/Grups.md)
 
 ---
 
