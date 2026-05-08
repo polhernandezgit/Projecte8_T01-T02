@@ -18,7 +18,7 @@
 
 ## SMX 2n B
 
-| Número de grup |  |  |  | Client assignat tasca1 |
+| Número de grup | | | | Client assignat tasca1 |
 | :---- | :---- | :---- | :---- | :---- |
 | 1 | Pol Abenza | Marc Azanedo Cabezon | | Client 2 |
 | 2 | Jan Fernández | Pol Hernandez Arnaldo | David Ballesteros Antich | Client 1 |
