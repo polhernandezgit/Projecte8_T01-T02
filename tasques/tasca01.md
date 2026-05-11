@@ -74,7 +74,7 @@ o) Utilitzar els mitjans de consulta disponibles, seleccionant-ne el més adequa
 ## Distribució horària
 
 Durada prevista: 8 hores.
-Assignació horària: 3 h RA2 Projecte Intermodular.
+Assignació horària: 8h RA2 Projecte Intermodular.
 
 ## Quan es necessita, termini i forma de lliurament
 
