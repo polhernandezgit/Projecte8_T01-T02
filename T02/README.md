@@ -15,3 +15,4 @@ L'empresa disposa de:
 Reduir la factura elèctrica un 20% i obtenir una certificació de sostenibilitat.
 
 ## Enllaç de la solució
+[Solucio.md](./Solucio.md)
