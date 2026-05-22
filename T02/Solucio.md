@@ -2,12 +2,12 @@
 
 ## Fase 1: Diagnòstic i Auditoria (Checklist)
 
-La infraestructura actual té tres "punts negres" crítics:
-* **20 PCs de sobretaula (2018):** Tenen discs HDD (lents i consumeixen més), només 4GB de RAM (insuficient, provoca que el processador treballi al 100%) i problemes de sobreescalfament (més despesa en climatització).
+La infraestructura actual té tres punts crítics:
+* **20 PCs de sobretaula:** Tenen discs HDD (lents i consumeixen més), només 4GB de RAM (insuficient, provoca que el processador treballi al 100%) i problemes de sobreescalfament (més despesa en climatització).
 * **1 Servidor físic:** Sobredimensionat i encès 24/7 (malbaratament energètic massiu).
 * **Magatzem:** Monitors i cables vells sense inventariar (residus electrònics i capital immobilitzat).
 
-### Proposta de Checklist d'Auditoria (Lliurable 1)
+### Proposta de Checklist d'Auditoria
 
 | ID Equip | Tipus / Model | Estat Tècnic | Impacte Ambiental / Punts Negres | Valoració (1-5) | Acció Circular Proposta |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -15,38 +15,32 @@ La infraestructura actual té tres "punts negres" crítics:
 | **SRV-01** | Servidor Físic Central | **Bo (Tècnicament).** Sobredimensionat per a les necessitats reals. | **Molt Alt.** Consum ininterromput 24/7 d'energia base. | 1/5 | **Migració / Virtualització:** Moure serveis al núvol verd o programar apagats automàtics nocturns. |
 | **MAG-01** | Magatzem de residus | **Desconegut.** Material acumulat i sense inventariar. | **Moderat-Alt.** Risc de contaminació per components RAEE si no es reciclen. | 1/5 | **Inventari i Triatge:** Separar el que funciona per a reutilitzar i reciclar la resta via punt blau. |
 
----
-
 ## Fase 2: Solucions - Hardware Circular (Catàleg)
 
-En lloc de comprar equips nous (que generaria petjada de carboni per fabricació), prioritzarem la **"Revitalització"**.
+En lloc de comprar equips nous, que generaria petjada de carboni per fabricació, prioritzarem la **"Revitalització"**.
 
-### Catàleg de Hardware Recomanat (Lliurable 2)
+### Catàleg de Hardware Recomanat
 
-1. **Unitats d'emmagatzematge: SSD Crucial/Kingston (SATA 2.5")**
-   * *Justificació:* Substituir els vells HDD per SSD redueix el consum elèctric del disc en un 60-80%, elimina la generació de calor i multiplica per 5 la velocitat de l'equip, allargant la seva vida útil **3 o 4 anys més**.
-2. **Memòria RAM: Mòduls DDR4 4GB/8GB (Crucial o similars)**
-   * *Justificació:* Ampliar els equips a un minim de 8GB o 16GB de RAM evita que el processador s'estressi (reduint el sobreescalfament) i permet treballar amb programari actual sense necessitat de canviar la placa base ni el xassís.
-3. **Components nous (si cal substituir alguna pantalla o perifèric):**
-   * *Criteris de selecció:* Només es adquiriran productes amb certificació **Energy Star** (eficiència energètica garantida) i **EPEAT Gold/Silver** (dissenyats per ser desmuntats, reparats i reciclats fàcilment).
-
----
+1. **Unitats d'emmagatzematge: SSD Crucial/Kingston SATA 2.5**
+   * Justificació: Substituir els vells HDD per SSD redueix el consum elèctric del disc en un 60-80%, elimina la generació de calor i multiplica per 5 la velocitat de l'equip, allargant la seva vida útil **3 o 4 anys més**.
+2. **Memòria RAM: Mòduls DDR4 4GB/8GB**
+   * Justificació: Ampliar els equips a un minim de 8GB o 16GB de RAM evita que el processador s'estressi, reduint el sobreescalfament i permet treballar amb programari actual sense necessitat de canviar la placa base ni el xassís.
+3. **Components nous (¡si cal substituir alguna pantalla o perifèric)¡:**
+   * Criteris de selecció: Només es compraran productes amb certificació **Energy Star** i **EPEAT Gold/Silver** dissenyats per ser desmuntats, reparats i reciclats fàcilment.
 
 ## Fase 3: Guia de Bones Pràctiques Digitals (Infografia)
 
 Aquest contingut s'ha d'estructurar en format d'**infografia visual** per als usuaris del Coworking:
 
 * **Combat el "Dark Data" (Dades fosques):**
-  * Neteja el teu correu electrònic (elimina spam i fils antics).
-  * No acumulis còpies de seguretat duplicades al núvol. Sabies que emmagatzemar dades inútils als servidors consumeix tanta energia com un país sencer?
+  * Neteja el correu electrònic eliminant spam i fils antics.
+  * No acumular còpies de seguretat duplicades al núvol.
 * **Configuració de l'Entorn de Treball (S.O.):**
-  * Activa el "Mode Estalvi d'Energia" a Windows/Linux/macOS.
-  * Configura la pantalla perquè s'apagui després de 5 minuts d'inactivitat (evita els salvapantalles animats, consumeixen més).
-* **🔌 Protocol de tancament i control remot:**
-  * **Apagada Total:** En marxar del coworking, desconnecta completament l'equip (evita el mode *Stand-by*).
+  * Activa el mode estalvi d'energia a Windows/Linux/macOS.
+  * Configurar la pantalla perquè s'apagui després de 5 minuts d'inactivitat.
+* **Protocol de tancament i control remot:**
+  * **Apagada Total:** En marxar del coworking, desconnectem completament l'equip.
   * **Tancament Remot:** Implementació d'un sistema automatitzat que apagui de manera remota tots els equips que hagin quedat encesos a partir de les 21:00h.
-
----
 
 ## Fase 4: El Pla de Sostenibilitat Integral (Document Final)
 
